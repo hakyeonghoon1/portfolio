@@ -45,6 +45,10 @@
   
 >[SQL](https://github.com/hakyeonghoon1/portfolio/blob/main/docs/CAFE.sql)
   
+  #### 회고/느낀점
+  - sql 작성에 능력이 향상되었습니다.
+  - 테이블 관계 설정 능력이 향상되었습니다.
+  
 </div>
 
 ---
