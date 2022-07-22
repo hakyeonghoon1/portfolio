@@ -37,7 +37,7 @@
 >  
 >기술 스택: ORACLE DB
 >
-><details>
+<details>
 <summary><b>상세 내용 펼치기</b></summary>
 <div markdown="1">
   
