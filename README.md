@@ -40,7 +40,7 @@
 <details>
 <summary><b>상세 내용 펼치기</b></summary>
 <div markdown="1">
-![](https://github.com/hakyeonghoon1/portfolio/blob/main/docs/CAFE.pdf)
+[상세내용](https://github.com/hakyeonghoon1/portfolio/blob/main/docs/CAFE.pdf)
 </div>
 
 ---
