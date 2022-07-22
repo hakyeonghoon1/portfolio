@@ -17,6 +17,7 @@
 ## :pushpin: Contact
 - 이메일: skyhoon7@naver.com
 - 깃헙: https://github.com/hakyeonghoon1
+- 블로그: https://velog.io/@skyhoon7
 
 </br>
 
