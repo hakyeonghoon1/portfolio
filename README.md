@@ -27,7 +27,7 @@
 >개발 기간: 2021.11.27 ~ 2021.12.26  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / mybatis 
+>Java / Spring Boot / Gradle / Spring Data JPA / mybatis 
 >/ Redis / MySQL / React.js  
 >  
 >[프로젝트 상세 설명](https://github.com/hakyeonghoon1/pingpong) 참고
