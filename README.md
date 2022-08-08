@@ -45,8 +45,6 @@
   
 >[상세내용](https://github.com/hakyeonghoon1/portfolio/blob/main/docs/CAFE.pdf)
   
->[실제 작성된 SQL 코드입니다](https://github.com/hakyeonghoon1/portfolio/blob/main/docs/CAFE%20.sql)
-  
   #### 회고/느낀점
   - sql 작성에 능력이 향상되었습니다.
   - 테이블 관계 설정 능력이 향상되었습니다.
